@@ -1,0 +1,4 @@
+cohort,n,n1,n_rej,rej_det,rej_int,depth_group_p,lib_group_p,phi_hat
+ibdmdb,178,132,2,2,0,0.0993,0.0642,10000.0
+mbqc,700,350,29,25,4,0.243,0.2277,10000.0
+agp,700,350,10,9,1,0.9691,0.8275,10000.0

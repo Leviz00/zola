@@ -1,0 +1,13 @@
+# Bridge-verified python environment (2026-08-23 session; 2-CPU container,
+# OPENBLAS/OMP/MKL threads pinned to 1). Under these versions every archived
+# result replayed EXACTLY (see tests/test_regression_bridges.py
+# and the project's code-rescue record). Newer versions are likely fine but must re-pass the
+# bridges before any number is trusted.
+# python == 3.11.15
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.9        # figures only
+pydeseq2==0.5.4           # DESeq2 arms only
+# R side: see ENVIRONMENT.md (ANCOMBC 2.6.1 RELEASE_3_19 branch, LinDA,
+# LOCOM, LDM install recipes).

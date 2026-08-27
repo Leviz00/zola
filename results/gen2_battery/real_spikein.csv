@@ -1,0 +1,7 @@
+cohort,arm,recovered,n_rec,extra_rej_nonspike,rej_total
+ibdmdb,intensity,0.0,0,0,0
+ibdmdb,presence,0.733,11,2,15
+mbqc,intensity,0.533,8,0,36
+mbqc,presence,0.933,14,2,44
+agp,intensity,0.533,8,11,28
+agp,presence,0.867,13,0,23

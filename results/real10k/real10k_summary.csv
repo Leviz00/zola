@@ -1,0 +1,16 @@
+cohort,analysis,n_rej,rej_det,rej_int,rich_group_p,depth_group_p,lib_group_p,secs
+ibdmdb,native_unadj,0,0,0.0,7.5e-05,0.0993,0.0642,2.8
+ibdmdb,native_rich,0,0,0.0,7.5e-05,0.0993,0.0642,2.5
+ibdmdb,spike_intensity_unadj,0,0,0.0,0.0,,,0.0
+ibdmdb,spike_presence_unadj,14,11,0.733,3.0,,,0.0
+ibdmdb,spike_presence_rich,9,9,0.6,0.0,,,0.0
+mbqc,native_unadj,30,26,4.0,0.0,0.243,0.2277,4.3
+mbqc,native_rich,28,24,4.0,0.0,0.243,0.2277,4.2
+mbqc,spike_intensity_unadj,37,8,0.533,0.0,,,0.0
+mbqc,spike_presence_unadj,45,14,0.933,1.0,,,0.0
+mbqc,spike_presence_rich,41,14,0.933,1.0,,,0.0
+agp,native_unadj,14,12,2.0,0.001014,0.9691,0.8275,3.2
+agp,native_rich,2,2,0.0,0.001014,0.9691,0.8275,2.4
+agp,spike_intensity_unadj,23,8,0.533,2.0,,,0.0
+agp,spike_presence_unadj,27,13,0.867,0.0,,,0.0
+agp,spike_presence_rich,12,10,0.667,0.0,,,0.0

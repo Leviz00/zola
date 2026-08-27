@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it as below. A Zenodo DOI and
+  the paper's preferred citation will be added at the first tagged release."
+title: "ZOLA — reproducibility archive (identified functionals,
+  channel-separated testing, and abstention for microbiome differential
+  abundance)"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Yizhe"
+    email: "rolandxu1990@gmail.com"
+year: 2026
+license: MIT

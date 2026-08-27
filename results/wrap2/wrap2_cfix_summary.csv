@@ -1,0 +1,7 @@
+cell,mode,arm,fdp,fdp_sem,tpr,tpr_sem,tprA,tprP,typeI,nrej,nfail,secs
+2001,complete_linda,after,0.0808,0.0268,1.0,0.0,,1.0,0.0578,11.1,0.0,1.655
+2001,complete_wilcoxon,after,0.0652,0.0149,1.0,0.0,,1.0,0.05,10.75,0.0,29.405
+2002,complete_linda,after,0.0381,0.0184,0.51,0.0069,0.02,1.0,0.0583,5.35,0.0,1.665
+2002,complete_wilcoxon,after,0.0264,0.0123,0.625,0.0289,0.26,0.99,0.0528,6.45,0.0,28.925
+2003,complete_linda,after,0.05,0.05,0.0,0.0,0.0,,0.0617,0.3,0.0,1.33
+2003,complete_wilcoxon,after,0.02,0.02,0.025,0.0176,0.025,,0.0506,0.35,0.0,22.635

@@ -1,0 +1,10 @@
+cohort,dataset,method,mode,n_rej,n_tested,overlap_official,spike_rec,hits_core,szero_n,secs
+ibdmdb,native,ancombc2,mixed,0,100,0,,,0,144.9
+ibdmdb,spike_int,ancombc2,mixed,0,100,0,0.0,,0,150.0
+ibdmdb,spike_pres,ancombc2,mixed,0,100,0,0.0,,0,145.1
+mbqc,native,ancombc2,fixed,26,98,15,,,2,23.5
+mbqc,spike_int,ancombc2,fixed,39,98,17,13.0,,2,23.8
+mbqc,spike_pres,ancombc2,fixed,27,98,15,2.0,,2,25.0
+agp,native,ancombc2,fixed,15,82,4,,2.0,0,22.4
+agp,spike_int,ancombc2,fixed,24,82,6,11.0,2.0,0,20.2
+agp,spike_pres,ancombc2,fixed,15,81,4,2.0,2.0,0,21.0

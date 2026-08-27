@@ -1,0 +1,17 @@
+,0
+name,ibdmdb_genus282
+n,178
+p,282
+zero_rate,0.797
+depth_cv,0.609
+prev_med,0.079
+prev_p75,0.312
+prev_max,0.983
+core_ge99,0
+span_p25,-4.86
+span_max,-0.55
+mv_slope,1.69
+phi_med,27.2
+phi_q25,12.6
+phi_q75,67.8
+varmean_med,23.5
