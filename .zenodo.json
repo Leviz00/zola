@@ -1,0 +1,11 @@
+{
+  "title": "ZOLA — reproducibility archive (identified functionals, channel-separated testing, and abstention for microbiome differential abundance)",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Liu, Yizhe"
+    }
+  ],
+  "description": "Code, archived results, regression bridge tests, and the reproduction guide behind the ZOLA manuscript. Raw cohort data and metadata are not redistributed; data/ACCESSIONS.md documents the public accessions and the derivation scripts that rebuild every analysis input."
+}

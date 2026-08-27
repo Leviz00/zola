@@ -1,6 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this archive, please cite it as below. A Zenodo DOI and
-  the paper's preferred citation will be added at the first tagged release."
+message: "If you use this archive, please cite it as below."
 title: "ZOLA — reproducibility archive (identified functionals,
   channel-separated testing, and abstention for microbiome differential
   abundance)"
@@ -11,3 +10,14 @@ authors:
     email: "rolandxu1990@gmail.com"
 year: 2026
 license: MIT
+version: v1.0.0
+date-released: "2026-08-27"
+doi: 10.5281/zenodo.22133432
+repository-code: "https://github.com/Leviz00/zola"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22133432
+    description: "Concept DOI — cites all versions"
+  - type: doi
+    value: 10.5281/zenodo.22133433
+    description: "Version DOI — v1.0.0"

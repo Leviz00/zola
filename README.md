@@ -1,7 +1,12 @@
 # ZOLA — reproducibility archive
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22133432.svg)](https://doi.org/10.5281/zenodo.22133432)
+
 **Author:** Yizhe Liu (刘翊哲) · **License:** MIT (see LICENSE) ·
-**Cite:** CITATION.cff (Zenodo DOI added at first release)
+**Cite:** CITATION.cff — Zenodo DOI
+[10.5281/zenodo.22133432](https://doi.org/10.5281/zenodo.22133432)
+(all versions; v1.0.0:
+[10.5281/zenodo.22133433](https://doi.org/10.5281/zenodo.22133433))
 
 Code, frozen specifications, and archived results behind the ZOLA
 manuscript (*Which zero is which? Identified functionals,
